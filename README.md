@@ -1,2 +1,2 @@
-### i code
+### advanced opengl enjoyer
 
