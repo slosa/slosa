@@ -1,2 +1,2 @@
-### advanced opengl enjoyer
+### advanced in java intermediate in opengl
 
